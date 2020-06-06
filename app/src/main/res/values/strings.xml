@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Hunter</string>
+    <string name="tapmebutton">Tap Me!</string>
+    <string name="yourscore">Your Score: %1$d</string>
+    <string name="timeleft">Time Left: %1$d</string>
+    <string name="timeleftview">Time Left: %1$d</string>
+    <string name="yourScore">Your Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="gameOverMessage">Times Up! Your Score was : %1$d</string>
+</resources>
